@@ -1,0 +1,14 @@
+[
+	{
+		"name": "BlackJack The Game",
+		"live": "https://project-1-blackjack.vercel.app/",
+		"git": "https://github.com/Camacho-A/blackjack_game",
+		"image": "https://i.imgur.com/o5Gm3Jw.png"
+	},
+	{
+		"name": "SneakeRevolution",
+		"live": "https://sneakerevolution.onrender.com",
+		"git": "https://github.com/Camacho-A/SneakeRevolution-App",
+		"image": "https://i.imgur.com/xCLWFi8.png"
+	}
+]
